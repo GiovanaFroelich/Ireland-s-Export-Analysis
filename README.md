@@ -18,7 +18,3 @@ This project analyzes Ireland's **commodity and service exports** from **2015 to
 
 ## 📊 Tools Used  
 🛠 **Python (Pandas, NumPy, Scikit-Learn), Power BI, Matplotlib, Seaborn**  
-
----
-
-This format is **clear, structured, and visually appealing** for GitHub! 🚀 Let me know if you need any adjustments. 😊
